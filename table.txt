@@ -1,0 +1,47 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+table,th,td{border: 2px solid black;
+	border-collapse: collapse;
+
+
+</style>
+<body>
+	<table>
+<tr bgcolor="cyan">
+<th rowspan="2">Name</th>
+<th rowspan="2">Gender</th>
+<th colspan="2">immunnization Does</th>
+<th rowspan="2">Weight</th>
+</tr>
+<tr bgcolor="cyan">
+	<th>Taken</th>
+	<th>Left</th>
+</tr>
+<tr>
+	<th>Jithin</th>
+	<th>Male</th>
+	<th>1</th>
+	<th>3</th>
+	<th>70</th>
+</tr>
+<tr>
+	<th>Athul</th>
+	<th>Male</th>
+	<th>3</th>
+	<th>5</th>
+	<th>70</th>
+</tr>
+<tr>
+	<th>Abishek</th>
+	<th>Male</th>
+	<th>3</th>
+	<th>6</th>
+	<th>60</th>
+</tr>
+<tr bgcolor="cyan">
+	<th colspan="4"><b>Mean weight Record</b></th>
+	<td><b>200</b></td>
+</table>
+</body></head></html>

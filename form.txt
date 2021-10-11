@@ -1,0 +1,115 @@
+<html>
+<head>	
+</head>
+	<body>
+		<form>
+			<h2><center>STUDENT REGISTRATION FROM</center></h2><br>
+<center><table>
+			<tr>
+			<td>FIRST NAME</td>
+			<td><input type="text" name=""></td>
+		</tr>
+		<tr>
+			<td>LAST NAME</td>
+			<td><input type="text" name=""></td>
+		</tr>
+		<tr>
+			<td>PHOTO</td>
+			<td><input type="file" name="photo"></td>
+		</tr>
+		<tr>
+			<td>DATE OF BIRTH</td>
+			<td><input type="date"></td>
+		</tr>
+		<tr>
+			<td>EMAIL</td>
+			<td><input type="email" name=""></td>
+		</tr>
+		<tr>
+			<td>MOBILE NUMBER</td>
+			<td><input type="text" name="">
+			</td>
+		</tr>
+		<tr>
+			<td>GENDER</td>
+			<td>Male<input type="radio" name="male">Female<input type="radio" name="male"></td>
+		</tr>
+		<tr>
+			<td>ADDRESS</td>
+			<td><textarea rows="4"></textarea>
+
+   </td></tr>
+   <tr>
+   	<td>CITY</td>
+   	<td><input type="text" name="">
+   	</td></tr>
+   	<tr>
+   		<td>PIN CODE</td>
+   		<td><input type="text" name="">
+   		</td>
+   	</tr>
+   	<tr>
+   		<td>STATE</td>
+   		<td><input type="text" name="">
+   	</tr>
+   	<tr>
+   		<td>COUNTRY</td>
+   		<td><select><option>INDIA</option>
+   		<option>AMERICA</option>
+   		<option>CANADA</option></td>
+   	</select>
+   		<tr>
+   			<td>HOBBIES</td>
+   			<td>Drawing<input type="checkbox" name="">Singing<input type="checkbox" name="">Football<input type="checkbox" name=""></td></tr>
+
+   			<tr>
+   				<td>QUALIFICATION</td>
+   	
+   		<td><table>
+   			<th>Sl.No.</th>
+   			<th>Examination</th>
+   			<th>Board</th>
+   			<th>Percentage</th>
+   			<th>Year of passing</th></td>
+   		</tr>
+   		<tr>
+   			<td>1</td>
+   			<td>Class XI</td>
+   			<td><input type="text" name=""></td>
+   				<td><input type="text" name=""></td>
+   					<td><input type="text" name=""></td>
+   		</tr>
+   		<tr>
+   			<td>2</td>
+   			<td>Class XII</td>
+   			<td><input type="text" name=""></td>
+   				<td><input type="text" name=""></td>
+   					<td><input type="text" name=""></td>
+   		</tr>
+   		<tr>
+   			<td>3</td>
+   			<td>Graduation</td>
+   			<td><input type="text" name=""></td>
+   				<td><input type="text" name=""></td>
+   					<td><input type="text" name=""></td>
+   		</tr>
+<tr>
+   			<td>4</td>
+   			<td>Master</td>
+   			<td><input type="text" name=""></td>
+   				<td><input type="text" name=""></td>
+   					<td><input type="text" name=""></td>
+   		</tr>
+
+   	</table>
+   	<tr>
+   		<td>COURSES APPLIED FOR</td>
+   		<td></td><td></td>
+   		<td>BCA<input type="radio" name="name">B.com<input type="radio" name="name">Bsc<input type="radio" name="name">B.A<input type="radio" name="name">
+   		</td></tr>
+   		<tr>
+<td colspan="2"><br><input type="submit" name="ok">
+<td><input type="reset" name=""></td>
+</tr>
+</td></tr>
+ </center></table></form></body></html>
